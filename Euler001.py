@@ -1,4 +1,4 @@
-
+# Euler001
 def MULTIPLES (n):
         if  (n % 3 == 0 or n % 5 == 0):
             return True 
